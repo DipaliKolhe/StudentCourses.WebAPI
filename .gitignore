@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/StudentCourses.WebAPI/obj
+/.vs/StudentCourses.WebAPI/v15
+/StudentCourses.UnitTest/bin/Debug/netcoreapp2.2
+/StudentCourses.UnitTest/obj
+/StudentCourses.WebAPI/bin/Debug/netcoreapp2.2
