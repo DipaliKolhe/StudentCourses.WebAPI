@@ -34,7 +34,7 @@ namespace StudentCourses.WebAPI
             services.AddScoped<IStudentRepository, StudentRepository>();
             services.AddScoped<IGenericRepository<Course>, GenericRepository<Course>>();
             services.AddScoped<IGenericRepository<Enrollment>, GenericRepository<Enrollment>>();
-           
+         
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

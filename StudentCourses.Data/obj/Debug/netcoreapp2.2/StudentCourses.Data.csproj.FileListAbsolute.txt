@@ -1,0 +1,9 @@
+C:\Dipali\AislePlus\StudentCourses.Data\bin\Debug\netcoreapp2.2\StudentCourses.Data.deps.json
+C:\Dipali\AislePlus\StudentCourses.Data\bin\Debug\netcoreapp2.2\StudentCourses.Data.dll
+C:\Dipali\AislePlus\StudentCourses.Data\obj\Debug\netcoreapp2.2\StudentCourses.Data.csproj.CoreCompileInputs.cache
+C:\Dipali\AislePlus\StudentCourses.Data\obj\Debug\netcoreapp2.2\StudentCourses.Data.AssemblyInfoInputs.cache
+C:\Dipali\AislePlus\StudentCourses.Data\obj\Debug\netcoreapp2.2\StudentCourses.Data.AssemblyInfo.cs
+C:\Dipali\AislePlus\StudentCourses.Data\bin\Debug\netcoreapp2.2\StudentCourses.Data.pdb
+C:\Dipali\AislePlus\StudentCourses.Data\obj\Debug\netcoreapp2.2\StudentCourses.Data.dll
+C:\Dipali\AislePlus\StudentCourses.Data\obj\Debug\netcoreapp2.2\StudentCourses.Data.pdb
+C:\Dipali\AislePlus\StudentCourses.Data\obj\Debug\netcoreapp2.2\StudentCourses.Data.csprojAssemblyReference.cache
